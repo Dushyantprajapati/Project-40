@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  border: 15px solid violet;
+  margin-top:50px;
+  margin-bottom:auto;
+  margin-right:auto;
+  margin-left:auto;
+
+}
